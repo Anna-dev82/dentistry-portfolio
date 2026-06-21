@@ -1,4 +1,4 @@
-"use strict";
+"use client";
 
 import { motion } from "framer-motion";
 import { GlassCard } from "@/shared/ui/GlassCard";
